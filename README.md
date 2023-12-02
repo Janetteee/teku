@@ -1,4 +1,4 @@
-# teku
+# teku 
 
  [![Build Status](https://circleci.com/gh/Consensys/teku.svg?style=svg)](https://circleci.com/gh/Consensys/workflows/teku)
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Consensys/teku/blob/master/LICENSE)
